@@ -1,16 +1,16 @@
-## Hi there 👋
+# 💻 Daniel Bitencourt
 
-<!--
-**Daniel9115/Daniel9115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Developer | HTML | CSS | Python | C# | SQL  
 
-Here are some ideas to get you started:
+🎯 Apaixonado por tecnologia, desenvolvimento web e soluções inovadoras.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 **Habilidades:**  
+- Front-end: HTML, CSS e JS 
+- Back-end: Python, C#  
+- Banco de dados: SQL  
+- Tecnologias extras: Office e Google Workspace  
+
+📫 **Contato:** [LinkedIn](https://www.linkedin.com/in/daniel-bitencourt-85695b282/)  
+
+---
+🔎 Sempre buscando novos desafios e aprendizados!
