@@ -1,9 +1,13 @@
-# Olá! Eu sou Daniel Bitencourt
+# 💻 Olá! Eu sou Daniel Bitencourt
 
 
 🚀 Full Stack Developer
 
-🎯 Apaixonado por tecnologia, desenvolvimento web e soluções inovadoras.  
+🎯 Apaixonado por tecnologia, desenvolvimento web e soluções inovadoras.
+
+
+
+🔎 Sempre buscando novos desafios e aprendizados!
 
 📌 **Habilidades:**  
 ------
