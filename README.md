@@ -1,16 +1,22 @@
-# 💻 Daniel Bitencourt
+# Olá! Eu sou Daniel Bitencourt
 
-🚀 Full Stack Developer | HTML | CSS | Python | C# | SQL  
+
+🚀 Full Stack Developer
 
 🎯 Apaixonado por tecnologia, desenvolvimento web e soluções inovadoras.  
 
 📌 **Habilidades:**  
-- Front-end: HTML, CSS e JS 
-- Back-end: Python, C#  
-- Banco de dados: SQL  
-- Tecnologias extras: Office e Google Workspace  
-
-📫 **Contato:** [LinkedIn](https://www.linkedin.com/in/daniel-bitencourt-85695b282/)  
-
+------
+<div>
+  
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />        
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+  
+<div/>
+          
 ---
-🔎 Sempre buscando novos desafios e aprendizados!
+![Gmail](https://img.shields.io/badge/bitencourtdaniel30@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
