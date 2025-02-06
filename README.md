@@ -1,26 +1,24 @@
-# 💻 Olá! Eu sou Daniel Bitencourt
+# Olá! Eu sou Daniel Bitencourt👋  
 
+- 💻 Full Stack Developer
 
-🚀 Full Stack Developer
+- 🎯 Apaixonado por tecnologia, desenvolvimento web e soluções inovadoras.
 
-🎯 Apaixonado por tecnologia, desenvolvimento web e soluções inovadoras.
+- 🔎 Sempre buscando novos desafios e aprendizados!
+<br>
 
+## 📌 **Habilidades:**  
 
-
-🔎 Sempre buscando novos desafios e aprendizados!
-
-📌 **Habilidades:**  
-------
-<div>
-  
-  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />        
-  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-  
+<div style="display: inline_block"><br>
+  <img height="40" aling="center" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img height="40" aling="center" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img height="40" aling="center" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />        
+  <img height="40" aling="center" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img height="40" aling="center" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+  <img height="40" aling="center" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
 <div/>
-          
----
-![Gmail](https://img.shields.io/badge/bitencourtdaniel30@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+<br> 
+  
+
+## 📫 **Contato:**
+ LinkedIn: [LinkedIn](https://www.linkedin.com/in/daniel-bitencourt-85695b282/)  |  📧 E-mail: [E-mail](bitencourtdaniel30@gmail.com)
