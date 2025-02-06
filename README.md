@@ -1,4 +1,4 @@
-# Olá! Eu sou Daniel Bitencourt👋  
+# 👋 Olá! Eu sou Daniel Bitencourt
 
 - 💻 Full Stack Developer
 
@@ -16,9 +16,10 @@
   <img height="40" aling="center" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img height="40" aling="center" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
   <img height="40" aling="center" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-<div/>
+</div>
 <br> 
   
 
 ## 📫 **Contato:**
- LinkedIn: [LinkedIn](https://www.linkedin.com/in/daniel-bitencourt-85695b282/)  |  📧 E-mail: bitencourtdaniel30@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/daniel-bitencourt-85695b282/)<br>
+📧 E-mail: bitencourtdaniel30@gmail.com
