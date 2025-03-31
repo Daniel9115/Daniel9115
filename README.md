@@ -21,5 +21,4 @@
   
 
 ## 📫 **Contato:**
-🔗 [LinkedIn](https://www.linkedin.com/in/daniel-bitencourt-85695b282/) [LinkedIn](bitencourtdaniel30@gmail.com) | [Email](malito:bitencourtdaniel30@gmail.com)<br>
-📧 E-mail: bitencourtdaniel30@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/daniel-bitencourt-85695b282/) | 📧 bitencourtdaniel30@gmail.com
